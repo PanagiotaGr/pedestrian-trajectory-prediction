@@ -99,8 +99,8 @@ with open(out_csv, "w", newline="", encoding="utf-8") as f:
     writer.writeheader()
     writer.writerows(matches)
 
-print(f"Saved matches to {out_csv}")
 
+out_csv = os.path.expanduser("~/imptc_project/results/matched_codes_full.csv")
 total_samples = len(set(m["sample_id"] for m in matches))
 matched_samples = len(set(m["sample_id"] for m in matches if m["match_count_for_sample"] != 0))
 unmatched_samples = total_samples - matched_samples

@@ -1,0 +1,5 @@
+sample_id,scene_path,timestamp,target_id,target_class_name,target_x_world,target_y_world,target_x_ego,target_y_ego,target_velocity,map_label_name,is_crosswalk,is_sidewalk,is_road,f1_state,f2_state,f3_state,n_ped_green,n_ped_red,has_green,red_only,is_moving,neighbor_rank,other_type,other_id,other_class_name,other_velocity,dx,dy,dz,distance
+0004,0001_20230322_083454,1679474128520035,000,person,-1.760483,1.000899,0.0,0.0,0.05795,sidewalk,0,1,0,2,1,1,1,2,1,0,0,1,vrus,013,person,0.049304,0.617334,-0.516575,0.315503,0.804954
+0004,0001_20230322_083454,1679474128520035,000,person,-1.760483,1.000899,0.0,0.0,0.05795,sidewalk,0,1,0,2,1,1,1,2,1,0,0,2,vrus,008,scooter,0.135257,-0.417157,-1.446449,0.19301,1.505402
+0004,0001_20230322_083454,1679474128520035,000,person,-1.760483,1.000899,0.0,0.0,0.05795,sidewalk,0,1,0,2,1,1,1,2,1,0,0,3,vrus,003,person,0.108727,1.67738,-0.446639,0.169337,1.735825
+0004,0001_20230322_083454,1679474128520035,000,person,-1.760483,1.000899,0.0,0.0,0.05795,sidewalk,0,1,0,2,1,1,1,2,1,0,0,4,vrus,001,person,0.067906,-0.845417,1.711952,0.072605,1.909322

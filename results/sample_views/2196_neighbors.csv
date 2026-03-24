@@ -1,0 +1,3 @@
+sample_id,scene_path,timestamp,target_id,target_class_name,target_x_ego,target_y_ego,target_velocity,map_label_name,f1_state,f2_state,f3_state,neighbor_rank,other_type,other_class_name,other_velocity,dx,dy,distance
+2196,0248_20231122_110958,1700651448359990,004,person,0.0,0.0,6.073333,curb,2,1,2,1,vrus,person,5.577857,-0.579117,0.264737,0.636759
+2196,0248_20231122_110958,1700651448359990,004,person,0.0,0.0,6.073333,curb,2,1,2,2,vrus,person,6.295587,0.947524,0.381308,1.021371

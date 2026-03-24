@@ -1,0 +1,4 @@
+sample_id,scene_path,timestamp,target_id,target_class_name,target_x_ego,target_y_ego,target_velocity,map_label_name,f1_state,f2_state,f3_state,neighbor_rank,other_type,other_class_name,other_velocity,dx,dy,distance
+1026,0133_20230911_135155,1694440446600014,006,person,0.0,0.0,6.005209,bikelane,1,1,1,1,vrus,person,5.640136,-0.574787,0.344181,0.669956
+1026,0133_20230911_135155,1694440446600014,006,person,0.0,0.0,6.005209,bikelane,1,1,1,2,vrus,person,7.748846,-1.361921,0.560763,1.472849
+1026,0133_20230911_135155,1694440446600014,006,person,0.0,0.0,6.005209,bikelane,1,1,1,3,vrus,person,0.550739,-4.022761,-1.98323,4.485065

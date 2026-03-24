@@ -1,0 +1,4 @@
+sample_id,scene_path,timestamp,target_id,target_class_name,target_x_ego,target_y_ego,target_velocity,map_label_name,f1_state,f2_state,f3_state,neighbor_rank,other_type,other_class_name,other_velocity,dx,dy,distance
+0395,0043_20230523_111854,1684840740880017,017,person,0.0,0.0,0.244467,sidewalk,2,1,1,1,vrus,person,0.185726,0.528981,0.80792,0.965689
+0395,0043_20230523_111854,1684840740880017,017,person,0.0,0.0,0.244467,sidewalk,2,1,1,2,vrus,bicycle,0.137463,0.688285,0.88977,1.124911
+0395,0043_20230523_111854,1684840740880017,017,person,0.0,0.0,0.244467,sidewalk,2,1,1,3,vrus,person,0.313031,2.69476,-1.043555,2.889765
