@@ -1,1 +1,1 @@
-# pedestrian-trajectory-prediction
+# vrs-trajectory-prediction
