@@ -8,7 +8,7 @@ print(pcd)
 points = np.asarray(pcd.points)
 colors = np.asarray(pcd.colors)
 
-# πάρε υποσύνολο για πιο ελαφρύ plotting
+
 n = min(50000, len(points))
 idx = np.random.choice(len(points), n, replace=False)
 pts = points[idx]
