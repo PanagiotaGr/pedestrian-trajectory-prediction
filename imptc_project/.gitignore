@@ -1,0 +1,27 @@
+# Μεγάλα αρχεία δεδομένων - ΜΗΝ ανεβούν στο GitHub
+*.tar.gz
+*.zip
+*.ply
+14811016.zip
+
+# Φάκελοι με raw data
+0*_*/
+data/extracted/
+data/imptc_set*/
+venv/
+
+# Preprocessed μεγάλα CSV (πάνω από 50MB)
+preprocessed/train_FINAL.csv
+preprocessed/eval_FINAL.csv
+preprocessed/train.json
+preprocessed/eval.json
+preprocessed/train_with_gt.csv
+preprocessed/eval_with_gt.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/

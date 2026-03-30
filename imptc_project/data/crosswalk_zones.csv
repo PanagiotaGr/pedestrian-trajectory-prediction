@@ -1,0 +1,4 @@
+signal,center_x,center_y,description
+f1,4.9597,9.0718,crosswalk_1_pedestrian_signal
+f2,5.1757,-7.3991,crosswalk_2_pedestrian_signal
+f3,21.0642,11.5369,crosswalk_3_pedestrian_signal
