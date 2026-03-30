@@ -1,0 +1,38 @@
+# virtual env
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# outputs
+output/
+outputs/
+
+# raw datasets
+train/
+eval/
+test/
+data/train/
+data/eval/
+data/test/
+
+# extracted/generated heavy files
+*.tar.gz
+*.zip
+*.jpg
+*.json
+
+# large generated csvs
+preprocessed/train_COMPLETE.csv
+preprocessed/eval_COMPLETE.csv
+preprocessed/trajectories_FULL.csv
+preprocessed/matches_all.csv
+preprocessed/train.csv
+preprocessed/eval.csv
+preprocessed/train_final.csv
+
+# OS/editor
+.vscode/
+.DS_Store
