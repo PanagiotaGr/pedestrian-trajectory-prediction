@@ -1,0 +1,38 @@
+Sample ID: 1793
+Source info: 20231031_121521/000
+Archive: imptc_set_05.tar.gz
+Scene path: 0207_20231031_121521
+Target type: vrus
+Target ID: 000
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1698754548640023
+  last_ts: 1698754638160005
+  lenght: 2239
+  duration: 89.6
+
+Interaction summary
+  total interacting tracks: 9
+  VRU interactions: 2
+  vehicle interactions: 7
+  strongest neighbor:
+    type: vrus
+    id: 003
+    class: person
+    close_frames: 709
+    common_timestamps: 709
+    min_dist: 0.012624
+
+Detailed interactions
+1. other_type=vrus, other_id=003, class=person, common_timestamps=709, close_frames=709, min_dist=0.012624
+2. other_type=vrus, other_id=005, class=person, common_timestamps=530, close_frames=197, min_dist=1.435385
+3. other_type=vehicles, other_id=1067, class=car, common_timestamps=671, close_frames=73, min_dist=2.621711
+4. other_type=vehicles, other_id=1058, class=car, common_timestamps=263, close_frames=57, min_dist=3.10609
+5. other_type=vehicles, other_id=1056, class=car, common_timestamps=138, close_frames=17, min_dist=3.546523
+6. other_type=vehicles, other_id=1049, class=car, common_timestamps=119, close_frames=12, min_dist=3.984336
+7. other_type=vehicles, other_id=1047, class=car, common_timestamps=120, close_frames=11, min_dist=4.062918
+8. other_type=vehicles, other_id=1046, class=car, common_timestamps=126, close_frames=11, min_dist=4.187381
+9. other_type=vehicles, other_id=1020, class=car, common_timestamps=147, close_frames=11, min_dist=4.246822

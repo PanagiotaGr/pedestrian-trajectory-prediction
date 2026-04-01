@@ -1,0 +1,23 @@
+Sample ID: 1052
+Source info: 20230911_140201/009
+Archive: imptc_set_03.tar.gz
+Scene path: 0135_20230911_140201
+Target type: vrus
+Target ID: 009
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: motorcycle
+  first_ts: 1694440933320011
+  last_ts: 1694440939000000
+  lenght: 143
+  duration: 5.76
+
+Interaction summary
+  total interacting tracks: 0
+  VRU interactions: 0
+  vehicle interactions: 0
+
+Detailed interactions
+  No interactions found.

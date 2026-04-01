@@ -1,0 +1,30 @@
+Sample ID: 0671
+Source info: 20230824_145407/007
+Archive: imptc_set_02.tar.gz
+Scene path: 0084_20230824_145407
+Target type: vrus
+Target ID: 007
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: motorcycle
+  first_ts: 1692888870000000
+  last_ts: 1692888874880017
+  lenght: 123
+  duration: 4.96
+
+Interaction summary
+  total interacting tracks: 1
+  VRU interactions: 0
+  vehicle interactions: 1
+  strongest neighbor:
+    type: vehicles
+    id: 1048
+    class: car
+    close_frames: 21
+    common_timestamps: 123
+    min_dist: 2.855207
+
+Detailed interactions
+1. other_type=vehicles, other_id=1048, class=car, common_timestamps=123, close_frames=21, min_dist=2.855207

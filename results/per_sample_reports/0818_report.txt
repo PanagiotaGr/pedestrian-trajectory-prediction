@@ -1,0 +1,32 @@
+Sample ID: 0818
+Source info: 20230907_094109/000
+Archive: imptc_set_03.tar.gz
+Scene path: 0106_20230907_094109
+Target type: vrus
+Target ID: 000
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1694079669280002
+  last_ts: 1694079717000000
+  lenght: 1194
+  duration: 47.8
+
+Interaction summary
+  total interacting tracks: 3
+  VRU interactions: 1
+  vehicle interactions: 2
+  strongest neighbor:
+    type: vrus
+    id: 001
+    class: stroller
+    close_frames: 634
+    common_timestamps: 960
+    min_dist: 2.221085
+
+Detailed interactions
+1. other_type=vrus, other_id=001, class=stroller, common_timestamps=960, close_frames=634, min_dist=2.221085
+2. other_type=vehicles, other_id=1021, class=car, common_timestamps=1194, close_frames=98, min_dist=3.467898
+3. other_type=vehicles, other_id=1006, class=car, common_timestamps=128, close_frames=13, min_dist=4.3372

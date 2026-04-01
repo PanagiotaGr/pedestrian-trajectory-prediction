@@ -1,0 +1,23 @@
+Sample ID: 2097
+Source info: 20231116_121102/014
+Archive: imptc_set_05.tar.gz
+Scene path: 0233_20231116_121102
+Target type: vrus
+Target ID: 014
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1700136714359990
+  last_ts: 1700136736119996
+  lenght: 545
+  duration: 21.84
+
+Interaction summary
+  total interacting tracks: 0
+  VRU interactions: 0
+  vehicle interactions: 0
+
+Detailed interactions
+  No interactions found.

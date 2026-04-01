@@ -1,0 +1,23 @@
+Sample ID: 0653
+Source info: 20230824_143943/005
+Archive: imptc_set_02.tar.gz
+Scene path: 0081_20230824_143943
+Target type: vrus
+Target ID: 005
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: scooter
+  first_ts: 1692888042920026
+  last_ts: 1692888054560005
+  lenght: 292
+  duration: 11.72
+
+Interaction summary
+  total interacting tracks: 0
+  VRU interactions: 0
+  vehicle interactions: 0
+
+Detailed interactions
+  No interactions found.

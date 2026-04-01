@@ -1,0 +1,36 @@
+Sample ID: 0431
+Source info: 20230526_055334/001
+Archive: imptc_set_01.tar.gz
+Scene path: 0047_20230526_055334
+Target type: vrus
+Target ID: 001
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1685080437000035
+  last_ts: 1685080535280035
+  lenght: 2458
+  duration: 98.36
+
+Interaction summary
+  total interacting tracks: 7
+  VRU interactions: 1
+  vehicle interactions: 6
+  strongest neighbor:
+    type: vrus
+    id: 000
+    class: person
+    close_frames: 2104
+    common_timestamps: 2277
+    min_dist: 0.779834
+
+Detailed interactions
+1. other_type=vrus, other_id=000, class=person, common_timestamps=2277, close_frames=2104, min_dist=0.779834
+2. other_type=vehicles, other_id=1024, class=car, common_timestamps=148, close_frames=17, min_dist=3.695625
+3. other_type=vehicles, other_id=1010, class=car, common_timestamps=70, close_frames=14, min_dist=3.523793
+4. other_type=vehicles, other_id=1000, class=car, common_timestamps=81, close_frames=14, min_dist=3.936748
+5. other_type=vehicles, other_id=1001, class=car, common_timestamps=88, close_frames=13, min_dist=3.269654
+6. other_type=vehicles, other_id=1006, class=car, common_timestamps=103, close_frames=12, min_dist=3.808679
+7. other_type=vehicles, other_id=1012, class=car, common_timestamps=145, close_frames=5, min_dist=4.933012

@@ -1,0 +1,30 @@
+Sample ID: 0798
+Source info: 20230525_072238/007
+Archive: imptc_set_03.tar.gz
+Scene path: 0102_20230525_072238
+Target type: vrus
+Target ID: 007
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: motorcycle
+  first_ts: 1684999441600014
+  last_ts: 1684999446359990
+  lenght: 120
+  duration: 4.84
+
+Interaction summary
+  total interacting tracks: 1
+  VRU interactions: 1
+  vehicle interactions: 0
+  strongest neighbor:
+    type: vrus
+    id: 000
+    class: stroller
+    close_frames: 15
+    common_timestamps: 120
+    min_dist: 3.613496
+
+Detailed interactions
+1. other_type=vrus, other_id=000, class=stroller, common_timestamps=120, close_frames=15, min_dist=3.613496

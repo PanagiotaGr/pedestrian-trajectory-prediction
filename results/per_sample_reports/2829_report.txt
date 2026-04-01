@@ -1,0 +1,16 @@
+Sample ID: 2829
+Source info: 20210517_210440_0tbv000_00099/000
+Archive: 
+Scene path: 
+Target type: 
+Target ID: 
+Radius: 5.0
+Status: unmatched_sample
+
+Interaction summary
+  total interacting tracks: 0
+  VRU interactions: 0
+  vehicle interactions: 0
+
+Detailed interactions
+  No interactions found.

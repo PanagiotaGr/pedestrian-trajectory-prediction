@@ -1,0 +1,32 @@
+Sample ID: 1440
+Source info: 20231023_105026/002
+Archive: imptc_set_04.tar.gz
+Scene path: 0184_20231023_105026
+Target type: vrus
+Target ID: 002
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: bicycle
+  first_ts: 1698058227119996
+  last_ts: 1698058261760020
+  lenght: 867
+  duration: 34.72
+
+Interaction summary
+  total interacting tracks: 3
+  VRU interactions: 0
+  vehicle interactions: 3
+  strongest neighbor:
+    type: vehicles
+    id: 1030
+    class: car
+    close_frames: 47
+    common_timestamps: 409
+    min_dist: 3.826756
+
+Detailed interactions
+1. other_type=vehicles, other_id=1030, class=car, common_timestamps=409, close_frames=47, min_dist=3.826756
+2. other_type=vehicles, other_id=1034, class=car, common_timestamps=759, close_frames=24, min_dist=2.416594
+3. other_type=vehicles, other_id=1016, class=car, common_timestamps=180, close_frames=22, min_dist=3.202398

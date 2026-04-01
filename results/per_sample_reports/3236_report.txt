@@ -1,0 +1,16 @@
+Sample ID: 3236
+Source info: 20210518_165004_0tbv000_00201/006
+Archive: 
+Scene path: 
+Target type: 
+Target ID: 
+Radius: 5.0
+Status: unmatched_sample
+
+Interaction summary
+  total interacting tracks: 0
+  VRU interactions: 0
+  vehicle interactions: 0
+
+Detailed interactions
+  No interactions found.

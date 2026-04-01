@@ -1,0 +1,43 @@
+Sample ID: 2155
+Source info: 20231122_103034/000
+Archive: imptc_set_05.tar.gz
+Scene path: 0241_20231122_103034
+Target type: vrus
+Target ID: 000
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1700649035440008
+  last_ts: 1700649096160005
+  lenght: 1519
+  duration: 60.8
+
+Interaction summary
+  total interacting tracks: 14
+  VRU interactions: 9
+  vehicle interactions: 5
+  strongest neighbor:
+    type: vrus
+    id: 001
+    class: person
+    close_frames: 1144
+    common_timestamps: 1464
+    min_dist: 1.836174
+
+Detailed interactions
+1. other_type=vrus, other_id=001, class=person, common_timestamps=1464, close_frames=1144, min_dist=1.836174
+2. other_type=vrus, other_id=002, class=person, common_timestamps=1434, close_frames=798, min_dist=2.297328
+3. other_type=vrus, other_id=006, class=person, common_timestamps=773, close_frames=618, min_dist=3.515033
+4. other_type=vrus, other_id=007, class=person, common_timestamps=724, close_frames=576, min_dist=3.31273
+5. other_type=vrus, other_id=010, class=person, common_timestamps=562, close_frames=562, min_dist=1.251556
+6. other_type=vehicles, other_id=1046, class=car, common_timestamps=524, close_frames=524, min_dist=1.935041
+7. other_type=vrus, other_id=008, class=person, common_timestamps=615, close_frames=387, min_dist=2.485334
+8. other_type=vrus, other_id=003, class=person, common_timestamps=1380, close_frames=344, min_dist=1.320802
+9. other_type=vehicles, other_id=1059, class=car, common_timestamps=1439, close_frames=81, min_dist=2.819221
+10. other_type=vehicles, other_id=1034, class=car, common_timestamps=388, close_frames=35, min_dist=4.104767
+11. other_type=vehicles, other_id=1037, class=car, common_timestamps=272, close_frames=21, min_dist=4.363945
+12. other_type=vehicles, other_id=1022, class=car, common_timestamps=192, close_frames=21, min_dist=4.871291
+13. other_type=vrus, other_id=005, class=person, common_timestamps=888, close_frames=8, min_dist=4.452852
+14. other_type=vrus, other_id=004, class=person, common_timestamps=984, close_frames=7, min_dist=4.495432

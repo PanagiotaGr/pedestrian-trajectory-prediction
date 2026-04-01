@@ -1,0 +1,30 @@
+Sample ID: 2189
+Source info: 20231122_110701/001
+Archive: imptc_set_05.tar.gz
+Scene path: 0246_20231122_110701
+Target type: vrus
+Target ID: 001
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: scooter
+  first_ts: 1700651221880017
+  last_ts: 1700651246320011
+  lenght: 612
+  duration: 24.52
+
+Interaction summary
+  total interacting tracks: 1
+  VRU interactions: 0
+  vehicle interactions: 1
+  strongest neighbor:
+    type: vehicles
+    id: 1002
+    class: car
+    close_frames: 17
+    common_timestamps: 193
+    min_dist: 3.915629
+
+Detailed interactions
+1. other_type=vehicles, other_id=1002, class=car, common_timestamps=193, close_frames=17, min_dist=3.915629

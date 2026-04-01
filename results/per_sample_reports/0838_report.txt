@@ -1,0 +1,36 @@
+Sample ID: 0838
+Source info: 20230907_095557/003
+Archive: imptc_set_03.tar.gz
+Scene path: 0109_20230907_095557
+Target type: vrus
+Target ID: 003
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: bicycle
+  first_ts: 1694080646320011
+  last_ts: 1694080670840008
+  lenght: 614
+  duration: 24.6
+
+Interaction summary
+  total interacting tracks: 7
+  VRU interactions: 1
+  vehicle interactions: 6
+  strongest neighbor:
+    type: vrus
+    id: 001
+    class: stroller
+    close_frames: 211
+    common_timestamps: 614
+    min_dist: 2.176665
+
+Detailed interactions
+1. other_type=vrus, other_id=001, class=stroller, common_timestamps=614, close_frames=211, min_dist=2.176665
+2. other_type=vehicles, other_id=1037, class=car, common_timestamps=67, close_frames=16, min_dist=3.634857
+3. other_type=vehicles, other_id=1040, class=car, common_timestamps=111, close_frames=15, min_dist=3.134277
+4. other_type=vehicles, other_id=1039, class=car, common_timestamps=134, close_frames=13, min_dist=3.101071
+5. other_type=vehicles, other_id=1046, class=car, common_timestamps=140, close_frames=13, min_dist=3.247067
+6. other_type=vehicles, other_id=1047, class=car, common_timestamps=138, close_frames=11, min_dist=3.735358
+7. other_type=vehicles, other_id=1041, class=car, common_timestamps=25, close_frames=5, min_dist=3.717685

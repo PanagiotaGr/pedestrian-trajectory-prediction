@@ -1,0 +1,43 @@
+Sample ID: 0007
+Source info: 20230322_083454/003
+Archive: imptc_set_01.tar.gz
+Scene path: 0001_20230322_083454
+Target type: vrus
+Target ID: 003
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1679474109080035
+  last_ts: 1679474165200035
+  lenght: 1404
+  duration: 56.2
+
+Interaction summary
+  total interacting tracks: 14
+  VRU interactions: 9
+  vehicle interactions: 5
+  strongest neighbor:
+    type: vrus
+    id: 000
+    class: person
+    close_frames: 1093
+    common_timestamps: 1325
+    min_dist: 1.695189
+
+Detailed interactions
+1. other_type=vrus, other_id=000, class=person, common_timestamps=1325, close_frames=1093, min_dist=1.695189
+2. other_type=vrus, other_id=001, class=person, common_timestamps=1252, close_frames=978, min_dist=2.287877
+3. other_type=vrus, other_id=002, class=person, common_timestamps=1404, close_frames=666, min_dist=1.279703
+4. other_type=vrus, other_id=008, class=scooter, common_timestamps=604, close_frames=390, min_dist=1.323043
+5. other_type=vrus, other_id=013, class=person, common_timestamps=347, close_frames=347, min_dist=0.880641
+6. other_type=vrus, other_id=005, class=person, common_timestamps=934, close_frames=283, min_dist=1.239139
+7. other_type=vehicles, other_id=1038, class=car, common_timestamps=1398, close_frames=111, min_dist=2.794101
+8. other_type=vehicles, other_id=1029, class=car, common_timestamps=315, close_frames=94, min_dist=3.078266
+9. other_type=vehicles, other_id=1032, class=car, common_timestamps=302, close_frames=93, min_dist=3.599671
+10. other_type=vrus, other_id=004, class=person, common_timestamps=1141, close_frames=63, min_dist=2.802503
+11. other_type=vehicles, other_id=1026, class=car, common_timestamps=216, close_frames=46, min_dist=3.718914
+12. other_type=vrus, other_id=010, class=person, common_timestamps=305, close_frames=45, min_dist=4.391021
+13. other_type=vehicles, other_id=1015, class=car, common_timestamps=148, close_frames=15, min_dist=3.918493
+14. other_type=vrus, other_id=015, class=motorcycle, common_timestamps=103, close_frames=13, min_dist=3.829047

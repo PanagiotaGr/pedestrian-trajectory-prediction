@@ -1,0 +1,30 @@
+Sample ID: 0770
+Source info: 20230824_153244/004
+Archive: imptc_set_02.tar.gz
+Scene path: 0097_20230824_153244
+Target type: vrus
+Target ID: 004
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: bicycle
+  first_ts: 1692891192560005
+  last_ts: 1692891203440008
+  lenght: 273
+  duration: 10.96
+
+Interaction summary
+  total interacting tracks: 1
+  VRU interactions: 0
+  vehicle interactions: 1
+  strongest neighbor:
+    type: vehicles
+    id: 1019
+    class: car
+    close_frames: 20
+    common_timestamps: 169
+    min_dist: 3.867858
+
+Detailed interactions
+1. other_type=vehicles, other_id=1019, class=car, common_timestamps=169, close_frames=20, min_dist=3.867858

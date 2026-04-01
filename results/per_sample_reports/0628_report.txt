@@ -1,0 +1,47 @@
+Sample ID: 0628
+Source info: 20230824_143252/000
+Archive: imptc_set_02.tar.gz
+Scene path: 0079_20230824_143252
+Target type: vrus
+Target ID: 000
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1692887603280002
+  last_ts: 1692887697160005
+  lenght: 2348
+  duration: 93.96
+
+Interaction summary
+  total interacting tracks: 18
+  VRU interactions: 6
+  vehicle interactions: 12
+  strongest neighbor:
+    type: vrus
+    id: 001
+    class: person
+    close_frames: 1274
+    common_timestamps: 1396
+    min_dist: 1.214246
+
+Detailed interactions
+1. other_type=vrus, other_id=001, class=person, common_timestamps=1396, close_frames=1274, min_dist=1.214246
+2. other_type=vrus, other_id=002, class=person, common_timestamps=1233, close_frames=880, min_dist=2.531513
+3. other_type=vrus, other_id=004, class=person, common_timestamps=815, close_frames=446, min_dist=1.319094
+4. other_type=vrus, other_id=003, class=person, common_timestamps=777, close_frames=441, min_dist=1.172576
+5. other_type=vrus, other_id=009, class=bicycle, common_timestamps=444, close_frames=70, min_dist=1.669092
+6. other_type=vehicles, other_id=1053, class=car, common_timestamps=415, close_frames=61, min_dist=3.861696
+7. other_type=vrus, other_id=008, class=person, common_timestamps=531, close_frames=46, min_dist=4.797886
+8. other_type=vehicles, other_id=1054, class=car, common_timestamps=332, close_frames=36, min_dist=3.321531
+9. other_type=vehicles, other_id=1048, class=car, common_timestamps=239, close_frames=21, min_dist=4.422236
+10. other_type=vehicles, other_id=1041, class=car, common_timestamps=173, close_frames=14, min_dist=4.5203
+11. other_type=vehicles, other_id=1052, class=car, common_timestamps=212, close_frames=14, min_dist=4.59455
+12. other_type=vehicles, other_id=1044, class=car, common_timestamps=168, close_frames=13, min_dist=4.340715
+13. other_type=vehicles, other_id=1050, class=car, common_timestamps=163, close_frames=10, min_dist=4.610978
+14. other_type=vehicles, other_id=1055, class=car, common_timestamps=576, close_frames=8, min_dist=4.944831
+15. other_type=vehicles, other_id=1047, class=car, common_timestamps=115, close_frames=7, min_dist=4.5271
+16. other_type=vehicles, other_id=1040, class=car, common_timestamps=105, close_frames=5, min_dist=4.861925
+17. other_type=vehicles, other_id=1042, class=car, common_timestamps=128, close_frames=4, min_dist=4.945227
+18. other_type=vehicles, other_id=1027, class=car, common_timestamps=102, close_frames=4, min_dist=4.969709

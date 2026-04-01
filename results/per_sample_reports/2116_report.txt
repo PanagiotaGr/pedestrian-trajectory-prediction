@@ -1,0 +1,31 @@
+Sample ID: 2116
+Source info: 20231122_100832/001
+Archive: imptc_set_05.tar.gz
+Scene path: 0236_20231122_100832
+Target type: vrus
+Target ID: 001
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: stroller
+  first_ts: 1700647721880017
+  last_ts: 1700647773720011
+  lenght: 1297
+  duration: 51.92
+
+Interaction summary
+  total interacting tracks: 2
+  VRU interactions: 0
+  vehicle interactions: 2
+  strongest neighbor:
+    type: vehicles
+    id: 1028
+    class: car
+    close_frames: 151
+    common_timestamps: 883
+    min_dist: 4.240284
+
+Detailed interactions
+1. other_type=vehicles, other_id=1028, class=car, common_timestamps=883, close_frames=151, min_dist=4.240284
+2. other_type=vehicles, other_id=1024, class=truck, common_timestamps=269, close_frames=16, min_dist=4.568016

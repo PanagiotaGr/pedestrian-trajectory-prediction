@@ -1,0 +1,23 @@
+Sample ID: 0593
+Source info: 20230824_141451/002
+Archive: imptc_set_02.tar.gz
+Scene path: 0074_20230824_141451
+Target type: vrus
+Target ID: 002
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: bicycle
+  first_ts: 1692886501440008
+  last_ts: 1692886508039978
+  lenght: 166
+  duration: 6.68
+
+Interaction summary
+  total interacting tracks: 0
+  VRU interactions: 0
+  vehicle interactions: 0
+
+Detailed interactions
+  No interactions found.

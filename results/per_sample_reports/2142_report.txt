@@ -1,0 +1,43 @@
+Sample ID: 2142
+Source info: 20231122_102026/009
+Archive: imptc_set_05.tar.gz
+Scene path: 0239_20231122_102026
+Target type: vrus
+Target ID: 009
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1700648463079987
+  last_ts: 1700648488480017
+  lenght: 636
+  duration: 25.48
+
+Interaction summary
+  total interacting tracks: 14
+  VRU interactions: 7
+  vehicle interactions: 7
+  strongest neighbor:
+    type: vrus
+    id: 002
+    class: person
+    close_frames: 528
+    common_timestamps: 528
+    min_dist: 1.56671
+
+Detailed interactions
+1. other_type=vrus, other_id=002, class=person, common_timestamps=528, close_frames=528, min_dist=1.56671
+2. other_type=vrus, other_id=005, class=person, common_timestamps=334, close_frames=114, min_dist=0.736935
+3. other_type=vrus, other_id=000, class=person, common_timestamps=500, close_frames=93, min_dist=1.277971
+4. other_type=vrus, other_id=007, class=person, common_timestamps=84, close_frames=84, min_dist=1.261621
+5. other_type=vrus, other_id=006, class=person, common_timestamps=168, close_frames=65, min_dist=4.110572
+6. other_type=vehicles, other_id=1015, class=car, common_timestamps=155, close_frames=30, min_dist=0.907745
+7. other_type=vehicles, other_id=1019, class=car, common_timestamps=197, close_frames=29, min_dist=1.07982
+8. other_type=vehicles, other_id=1018, class=car, common_timestamps=202, close_frames=27, min_dist=2.546711
+9. other_type=vrus, other_id=008, class=person, common_timestamps=53, close_frames=22, min_dist=4.926934
+10. other_type=vehicles, other_id=1007, class=car, common_timestamps=168, close_frames=21, min_dist=3.444436
+11. other_type=vehicles, other_id=1055, class=car, common_timestamps=399, close_frames=21, min_dist=3.562711
+12. other_type=vehicles, other_id=1011, class=car, common_timestamps=221, close_frames=21, min_dist=3.637111
+13. other_type=vehicles, other_id=1020, class=car, common_timestamps=121, close_frames=14, min_dist=3.9761
+14. other_type=vrus, other_id=004, class=person, common_timestamps=17, close_frames=3, min_dist=4.781271

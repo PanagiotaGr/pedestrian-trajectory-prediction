@@ -1,0 +1,44 @@
+Sample ID: 1657
+Source info: 20231023_134749/003
+Archive: imptc_set_04.tar.gz
+Scene path: 0198_20231023_134749
+Target type: vrus
+Target ID: 003
+Radius: 5.0
+Status: ok
+
+Target overview
+  class_name: person
+  first_ts: 1698068870000035
+  last_ts: 1698068926480035
+  lenght: 1413
+  duration: 56.56
+
+Interaction summary
+  total interacting tracks: 15
+  VRU interactions: 12
+  vehicle interactions: 3
+  strongest neighbor:
+    type: vrus
+    id: 014
+    class: person
+    close_frames: 636
+    common_timestamps: 636
+    min_dist: 0.470305
+
+Detailed interactions
+1. other_type=vrus, other_id=014, class=person, common_timestamps=636, close_frames=636, min_dist=0.470305
+2. other_type=vrus, other_id=008, class=person, common_timestamps=892, close_frames=359, min_dist=2.288847
+3. other_type=vehicles, other_id=1097, class=car, common_timestamps=749, close_frames=259, min_dist=3.72133
+4. other_type=vrus, other_id=026, class=person, common_timestamps=243, close_frames=195, min_dist=1.715571
+5. other_type=vrus, other_id=028, class=bicycle, common_timestamps=172, close_frames=172, min_dist=1.687956
+6. other_type=vrus, other_id=020, class=bicycle, common_timestamps=388, close_frames=165, min_dist=1.938031
+7. other_type=vrus, other_id=027, class=person, common_timestamps=160, close_frames=160, min_dist=2.173378
+8. other_type=vehicles, other_id=1074, class=car, common_timestamps=750, close_frames=97, min_dist=3.248428
+9. other_type=vrus, other_id=011, class=person, common_timestamps=838, close_frames=85, min_dist=1.369079
+10. other_type=vehicles, other_id=1014, class=car, common_timestamps=231, close_frames=83, min_dist=3.977251
+11. other_type=vrus, other_id=015, class=person, common_timestamps=613, close_frames=72, min_dist=2.56163
+12. other_type=vrus, other_id=018, class=person, common_timestamps=546, close_frames=71, min_dist=1.5877
+13. other_type=vrus, other_id=021, class=person, common_timestamps=345, close_frames=71, min_dist=2.571326
+14. other_type=vrus, other_id=024, class=person, common_timestamps=257, close_frames=18, min_dist=3.336707
+15. other_type=vrus, other_id=029, class=bicycle, common_timestamps=102, close_frames=12, min_dist=4.637106
