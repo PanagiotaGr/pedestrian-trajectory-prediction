@@ -80,7 +80,7 @@ train_X.npy     (N, 38, 7, 5, 5)  — input grid
 train_X_tl.npy  (N, 38, 3)        — input traffic lights
 train_Y.npy     (N, 48, 2)        — output positions
 ```
-
+NOT GET TRAINING (απλα εχω τα νουμερα)
 ---
 
 ## Mathematical Framework
