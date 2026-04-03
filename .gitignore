@@ -1,38 +1,35 @@
-# virtual env
-venv/
-.venv/
-
-# python
-__pycache__/
-*.pyc
-
-# outputs
-output/
-outputs/
-
-# raw datasets
-train/
-eval/
-test/
-data/train/
-data/eval/
-data/test/
-
-# extracted/generated heavy files
+# Data files (πολύ μεγάλα)
+data/
+imptc_data/
+imptc_extracted/
+imptc_extracted_full/
+raw_scene/
+ground_plane/
+preprocessed/
 *.tar.gz
 *.zip
-*.jpg
-*.json
+*.ply
+*.npy
+*.npz
 
-# large generated csvs
-preprocessed/train_COMPLETE.csv
-preprocessed/eval_COMPLETE.csv
-preprocessed/trajectories_FULL.csv
-preprocessed/matches_all.csv
-preprocessed/train.csv
-preprocessed/eval.csv
-preprocessed/train_final.csv
+# Results (μεγάλα αρχεία - εκτός CSV)
+results/*.json
+results/*.npy
+results/*.jpg
+results/*.png
 
-# OS/editor
-.vscode/
-.DS_Store
+# Scene folders
+0???_*/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
+
+# Misc
+python
+*.csv
+set_0*_overview.csv
+*_overview.csv
+samples_overview.csv
