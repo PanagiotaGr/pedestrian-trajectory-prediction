@@ -1,0 +1,12 @@
+{
+  "input_json": "/home/pg2a1/imptc_project/results/grid_dataset_final.json",
+  "chunks_dir": "/home/pg2a1/imptc_project/results/training_chunks",
+  "input_frames": 38,
+  "output_frames": 48,
+  "total_frames": 86,
+  "grid_size": 5,
+  "n_channels": 7,
+  "train_tracks": 1536,
+  "eval_tracks": 192,
+  "test_tracks": 192
+}
