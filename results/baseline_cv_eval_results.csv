@@ -1,0 +1,11 @@
+category,value,ADE,FDE,n_samples
+overall,all,0.5341,1.3869,37794
+ground_type,road,0.408,1.0651,1221
+ground_type,sidewalk,0.5379,1.3986,28648
+ground_type,ground,0.568,1.4646,487
+ground_type,curb,0.6593,1.6514,842
+ground_type,road_line,0.6119,1.6071,205
+ground_type,crosswalk,0.5154,1.3381,6349
+ground_type,bikelane,1.2065,2.8334,42
+traffic_light_f1,green,0.4068,1.0122,16134
+traffic_light_f1,red,0.629,1.6659,21660
