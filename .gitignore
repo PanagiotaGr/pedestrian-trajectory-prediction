@@ -1,4 +1,6 @@
-# Data files (πολύ μεγάλα)
+# =========================
+# BIG DATA (IGNORE)
+# =========================
 data/
 imptc_data/
 imptc_extracted/
@@ -6,30 +8,49 @@ imptc_extracted_full/
 raw_scene/
 ground_plane/
 preprocessed/
+
+train/
+test/
+eval/
+
 *.tar.gz
 *.zip
 *.ply
 *.npy
 *.npz
 
-# Results (μεγάλα αρχεία - εκτός CSV)
-results/*.json
-results/*.npy
-results/*.jpg
-results/*.png
-
-# Scene folders
+# scene folders
 0???_*/
 
-# Python
+# =========================
+# IMAGES
+# =========================
+*.png
+*.jpg
+*.jpeg
+
+# =========================
+# JSON (raw)
+# =========================
+*.json
+
+# =========================
+# PYTHON
+# =========================
 __pycache__/
 *.pyc
-venv/
-*.egg-info/
 
-# Misc
-python
-*.csv
-set_0*_overview.csv
-*_overview.csv
-samples_overview.csv
+# =========================
+# ENV
+# =========================
+venv/
+
+# =========================
+# RESULTS (IMPORTANT)
+# =========================
+results/*
+
+# EXCEPTIONS (KEEP THESE)
+!results/dataset_A_full_context_fixed.csv
+!results/grid_matched_interactions.csv
+!results/grid_matched_summary.csv
